@@ -73,7 +73,7 @@ endif
 highlight Error      ctermfg=red     cterm=bold
 highlight Statement  ctermfg=yellow  cterm=bold
 highlight PreProc    ctermfg=yellow  cterm=bold
-highlight Constant   ctermfg=green
+highlight Constant   ctermfg=blue
 highlight StatusLine ctermfg=magenta ctermbg=white cterm=bold
 highlight WildMenu   ctermfg=magenta ctermbg=white cterm=bold,reverse
 highlight Visual     ctermfg=green   cterm=reverse
