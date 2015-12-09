@@ -105,8 +105,6 @@ highlight! link SpellRare    SpellBad
 " lang-specific hacks
 " The default mappings for some langs is a little wierd
 highlight! link PythonInclude  Keyword
-highlight! link PythonDoctest  Comment
-highlight! link PythonDoctest2 Comment
 
 highlight! link diffAdded      DiffAdd
 highlight! link diffRemoved    DiffDelete
