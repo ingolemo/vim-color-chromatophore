@@ -106,6 +106,8 @@ highlight! link SpellRare    SpellBad
 " The default mappings for some langs is a little wierd
 highlight! link PythonInclude  Keyword
 
+highlight! link luaFunction    Statement
+
 highlight! link diffAdded      DiffAdd
 highlight! link diffRemoved    DiffDelete
 highlight! link diffFile       Statement
